@@ -1,0 +1,7 @@
+pandas
+seaborn
+ucimlrepo
+matplotlib
+fancyimpute
+statsmodels
+scikit-learn
