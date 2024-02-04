@@ -1,0 +1,7 @@
+tqdm
+numpy
+torch
+seaborn
+matplotlib
+torchvision
+scikit-learn
