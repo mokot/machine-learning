@@ -1,0 +1,6 @@
+pandas
+seaborn
+graphviz
+matplotlib
+statsmodels
+scikit-learn
